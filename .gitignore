@@ -1,0 +1,17 @@
+# PHP
+*.log
+.DS_Store
+/vendor/
+/node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# OS
+Thumbs.db
